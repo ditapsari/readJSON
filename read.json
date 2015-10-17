@@ -1,0 +1,12 @@
+var obj = {};
+var obj = { "firstName" : "Dita",
+            "lastName"  : "Praditya Sari",
+            "born"      : "New York", 
+            "address"   : "Yogyakarta- Indonesia"};
+document.writeln(obj.firstName); // Output Dita
+document.writeln(obj.lastName); // Output Praditya Sari
+document.writeln(obj.born); // Output New York
+document.writeln(obj.address);//outputnya Yogyakarta-Indonesia
+
+
+
